@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b118f492.chunk.css",
+    "main.js": "/static/js/main.c3a58985.chunk.js",
+    "main.js.map": "/static/js/main.c3a58985.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e9cf59ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e9cf59ca.js.map",
+    "static/js/2.a816e80e.chunk.js": "/static/js/2.a816e80e.chunk.js",
+    "static/js/2.a816e80e.chunk.js.map": "/static/js/2.a816e80e.chunk.js.map",
+    "static/js/3.a1c92256.chunk.js": "/static/js/3.a1c92256.chunk.js",
+    "static/js/3.a1c92256.chunk.js.map": "/static/js/3.a1c92256.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b118f492.chunk.css.map": "/static/css/main.b118f492.chunk.css.map",
+    "static/js/2.a816e80e.chunk.js.LICENSE.txt": "/static/js/2.a816e80e.chunk.js.LICENSE.txt",
+    "static/media/8k_earth_daymap.54672c1f.jpeg": "/static/media/8k_earth_daymap.54672c1f.jpeg",
+    "static/media/8k_earth_nightmap.c0e138e9.jpeg": "/static/media/8k_earth_nightmap.c0e138e9.jpeg",
+    "static/media/chile-peru_google-earth.8b8d50a2.jpg": "/static/media/chile-peru_google-earth.8b8d50a2.jpg",
+    "static/media/all.css": "/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/greece-turkey_border-wall.1a3933ea.jpg": "/static/media/greece-turkey_border-wall.1a3933ea.jpg",
+    "static/media/norway-russia_google-earth.b10d37c6.jpg": "/static/media/norway-russia_google-earth.b10d37c6.jpg",
+    "static/media/noun_Rotate Phone_39168.b85f0739.svg": "/static/media/noun_Rotate Phone_39168.b85f0739.svg",
+    "static/media/oman-uae_google-earth.3f77d51d.jpg": "/static/media/oman-uae_google-earth.3f77d51d.jpg",
+    "static/media/state_infrastructural_investments.d27f62e9.jpg": "/static/media/state_infrastructural_investments.d27f62e9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9cf59ca.js",
+    "static/js/2.a816e80e.chunk.js",
+    "static/css/main.b118f492.chunk.css",
+    "static/js/main.c3a58985.chunk.js"
+  ]
+}
